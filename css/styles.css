@@ -56,3 +56,22 @@ img.img-circle{
 ul{
   list-style-type: none;
 }
+.projects-text{
+  text-align: none;
+  color: orange;
+  font-size: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  float: none;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+.well{
+  float: none;
+}
+small{
+  color: orange;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: cursive;
+}
