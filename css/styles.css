@@ -1,3 +1,32 @@
 .info {
   color: blue;
 }
+.page-header1 {
+  width: 1120px;
+  height: 200px;
+}
+img {
+  width: 110%;
+  float: left;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.row {
+  margin: 50px;
+}
+h1{
+  text-align: center;
+  margin-left: 5px;
+  color: white;
+}
+body{
+  background-color: #1254af;
+}
+.text-header1 {
+  color: red;
+}
+.smalltext {
+  color: yellow;
+  text-align: center;
+  font-size: 15px;
+}
