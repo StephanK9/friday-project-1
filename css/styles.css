@@ -20,7 +20,7 @@ body{
   color: red;
 }
 .smalltext {
-  color: yellow;
+  color: orange;
   text-align: center;
   font-size: 15px;
 }
@@ -39,7 +39,7 @@ img.head{
 img.img-circle{
   height: 20%;
   width: 20%;
-  float: none;
+  float: center;
 }
 .projects{
   text-align: center;
@@ -74,4 +74,7 @@ small{
   font-style: italic;
   font-weight: lighter;
   font-family: cursive;
+}
+h2{
+  color: orange;
 }
