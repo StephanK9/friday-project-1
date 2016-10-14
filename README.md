@@ -1,13 +1,13 @@
-# _{Stephan's First Friday Project at Epicodus}_
+# _Stephan's First Friday Project at Epicodus_
 
-#### _{A basic HTML and CSS website}, {10/14/16}_
+#### _A basic HTML and CSS website, 10/14/16_
 
-#### By _**{Stephan Khoury}**_
+#### By _**Stephan Khoury**_
 
 ## Description
 
-_{This website showcases some basic HTML and CSS, in there you will learn more about me and my past and what I can do after one week
-  at Epicodus}_
+_This website showcases some basic HTML and CSS, in there you will learn more about me and my past and what I can do after one week
+  at Epicodus_
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{This website showcases some basic HTML and CSS, in there you will learn more a
 
 ## Known Bugs
 
-_{There are currently no bugs to report but should you find any please contact me at stephane.khoury@gmail.com}_
+_There are currently no bugs to report but should you find any please contact me at stephane.khoury@gmail.com_
 
 ## Support and contact details
 
-_{The only person you can contact is me @ stephane.khoury@gmail.com}_
+_The only person you can contact is me @ stephane.khoury@gmail.com_
 
 ## Technologies Used
 
-_{This website uses HTML and CSS}_
+_This website uses HTML and CSS_
 
 ### License
 
-*{No Licenses at the current time}*
+*No Licenses at the current time*
 
-Copyright (c) 2016 **_{Stephan Khoury}_**
+Copyright (c) 2016 **_Stephan Khoury_**
